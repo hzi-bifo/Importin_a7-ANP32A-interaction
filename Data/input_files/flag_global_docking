@@ -1,0 +1,16 @@
+-in:file:s input_files/complex.pdb
+
+-nstruct 10000 
+
+-partners A_B
+-dock_pert 3 8
+
+-spin
+-randomize1
+
+-ex1
+-ex2aro
+
+-out:path:all output_files
+-out:suffix _global_dock
+

@@ -1,1 +1,1 @@
-This folder contains the data that we used to model the interaction between Importin-a7 and ANP32.  
+This folder contains the data that we used to model the interaction between Importin-a7 and ANP32. Th folder input_files contains both structures and the docking file. The output folder contains the selected docking result and the scoring file of the simulation.
